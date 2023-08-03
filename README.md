@@ -1,7 +1,7 @@
 # Cypress_assessment_Fuse-Machines
 
 >> Folders and usage
-'cypress/e2e/specs'    -->
+'cypress/e2e/specs'    -->/n 
 'cypress/fixtures'     -->
 'cypress/pages'        -->
 'cypress/reports'      -->
