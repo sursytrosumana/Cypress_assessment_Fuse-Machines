@@ -1,0 +1,14 @@
+{
+    "name": "sampleUser",
+    "mailId": "abcxyz@gmail.com",
+    "password": "abcxyz",
+    "company": "Fuse-Machines",
+    "website": "https://fusemachines.com/",
+    "country": "United States",
+    "city": "New York",
+    "address1": "White House Rd",
+    "address2": "Hartwick",
+    "state": "New York",
+    "zipCode": "10001",
+    "successMsg": "Thanks for contacting us, we will get back to you shortly."
+}
